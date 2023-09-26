@@ -3,10 +3,10 @@ package week_6_Class_live;
 public class Örnek_6_8_1_AşırıYüklemeYöntemleri {
     public static void main(String[] args) {
        // int parametreleriyle max yöntemini çağırıyoruz
-        System.out.println("The maximum of 3 and 4 is ");
+        System.out.println("3 ile 4 arasındaki büyük olanı bul ");
 
         // Invoke the max method with the double parameters
-         System.out.println("3 ve 4'ün maksimum değeris "
+         System.out.println("3 ve 4'ün maksimum değeri  "
                 + max(3.0, 5.4));
 
         // max yöntemini double parametrelerle çağırıyoruz

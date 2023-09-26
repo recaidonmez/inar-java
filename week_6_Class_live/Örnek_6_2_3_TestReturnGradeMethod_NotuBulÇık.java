@@ -3,7 +3,7 @@ package week_6_Class_live;
 public class Örnek_6_2_3_TestReturnGradeMethod_NotuBulÇık {
 
      public static void main(String[] args) {
-    System.out.print("Notu " + getGrade(1002));
+    System.out.print("Notu " + getGrade(100));
     System.out.print("\nNotu " + getGrade(59.5));
 }
 

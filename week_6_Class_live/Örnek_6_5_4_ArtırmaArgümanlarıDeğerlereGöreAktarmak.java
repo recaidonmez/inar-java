@@ -14,7 +14,7 @@ public class Örnek_6_5_4_ArtırmaArgümanlarıDeğerlereGöreAktarmak {
         int x = 1;
         System.out.println("Çagrı öncesi X-->" + x);
         arttırma(x);
-        System.out.println("Çağrıdan sonra X -->" +x);
+        System.out.println("Çağrıdan sonra X -->" + x);
 
     }
     public static void arttırma(int n){
