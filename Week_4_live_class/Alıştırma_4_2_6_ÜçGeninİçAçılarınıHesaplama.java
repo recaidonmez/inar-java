@@ -18,6 +18,7 @@ public class Alıştırma_4_2_6_ÜçGeninİçAçılarınıHesaplama {
         double y3 = input.nextDouble();
 
         // Üçtarafı hesapla   Math.sqrt:kare kök bulma
+
         double a = Math.sqrt((x2 - x3) * (x2 - x3)
                 + (y2 - y3) * (y2 - y3));
 
